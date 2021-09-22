@@ -30,7 +30,7 @@
 
 ## :clapper: **Preview**
 
- <a href="https://funnyzinho.github.io/Android-Site/android.html"><img src="https://img.shields.io/static/v1?label=Preview&message=Blog Android&color=469536&style=for-the-badge&logo=android"/></a> 
+ <a href="https://funnyzinho.github.io/Android-Site/android.html" target="_blank"><img src="https://img.shields.io/static/v1?label=Preview&message=Blog Android&color=469536&style=for-the-badge&logo=android"/></a> 
 
 ## :zap: **Tech Stack**
 
