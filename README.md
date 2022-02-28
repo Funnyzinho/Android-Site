@@ -1,9 +1,9 @@
 <h1 align="center">
-    <a href="https://funnyzinho.github.io/Android-Site/android.html"> <img src="imagens/favicon.ico" alt="Bug-droid"></img> Android Site</a> 
+    <a href="https://devpedrom.github.io/Android-Site/android.html"> <img src="imagens/favicon.ico" alt="Bug-droid"></img> Android Site</a> 
 </h1>
 
 <div align="center">
-<a href="https://github.com/Funnyzinho/Android-Site/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/Funnyzinho/Android-Site?style=for-the-badge">&nbsp;<img src="https://img.shields.io/static/v1?label=Progress&message=100%&color=2FC3E0&style=for-the-badge"/>
+<a href="https://github.com/devpedrom/Android-Site/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/devpedrom/Android-Site?style=for-the-badge">&nbsp;<img src="https://img.shields.io/static/v1?label=Progress&message=100%&color=2FC3E0&style=for-the-badge"/>
 </a></div>
 
 <br>
@@ -30,7 +30,7 @@
 
 ## :clapper: **Preview**
 
- <a href="https://funnyzinho.github.io/Android-Site/android.html" target="_blank"><img src="https://img.shields.io/static/v1?label=Preview&message=Blog Android&color=469536&style=for-the-badge&logo=android"/></a> 
+<a href="https://devpedrom.github.io/Android-Site/android.html" target="_blank"><img src="https://img.shields.io/static/v1?label=Preview&message=Blog Android&color=469536&style=for-the-badge&logo=android"/></a>
 
 ## :zap: **Tech Stack**
 
@@ -42,12 +42,12 @@
 
 ## :book: **Autor**
 
-<p>Developed by <a href="https://github.com/funnyzinho"><strong>Pedro Mendes</strong></a>, according to the HTML5 and CSS3 course of <a href="https://www.cursoemvideo.com/"><strong>Curso em Video</strong></a>.</p>
+<p>Developed by <a href="https://github.com/devpedrom"><strong>Pedro Mendes</strong></a>, according to the HTML5 and CSS3 course of <a href="https://www.cursoemvideo.com/"><strong>Curso em Video</strong></a>.</p>
 
 ## :handshake: **Connect with me**
 
 <div align="left">
-  <a href="https://github.com/funnyzinho" target="_blank">
+  <a href="https://github.com/devpedrom" target="_blank">
     <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white
       alt=github style="margin-bottom: 5px;" />
   </a>
